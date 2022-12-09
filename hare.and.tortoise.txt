@@ -1,9 +1,8 @@
-  The Hare and the Tortoise 
+hello
 
 
   A HARE one day ridiculed the short feet and slow pace of the
-Tortoise, who replied, laughing:  "Though you be swift as the
-wind, I will beat you in a race."  The Hare, believing her
+Tortoise, who replied, laughing: The Hare, believing her
 assertion to be simply impossible, assented to the proposal; and
 they agreed that the Fox should choose the course and fix the
 goal.  On the day appointed for the race the two started
@@ -15,4 +14,4 @@ had reached the goal, and was comfortably dozing after her
 fatigue.  
 
 
-    Slow but steady wins the race.  
+ 
